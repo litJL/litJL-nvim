@@ -14,6 +14,7 @@ Plug 'mhinz/vim-signify'                                  " Indicate git changes
 Plug 'tpope/vim-fugitive'                                 " Git functionality inside of vim
 Plug 'tpope/vim-rhubarb'                                  " Open files in Github
 Plug 'junegunn/gv.vim'                                    " Git commit browser
+Plug 'voldikss/vim-floaterm'                              " Open a floating Terminal, simple as that
 Plug 'https://github.com/vim-airline/vim-airline'         " The bar you see at the bottom (statusline) and top (tabline) of the editor
 Plug 'https://github.com/vim-airline/vim-airline-themes'  " Themes for airline, redundant if the theme you choose already has styles for airline
 Plug 'https://github.com/tpope/vim-commentary'            " Shortcuts for commenting out lines
