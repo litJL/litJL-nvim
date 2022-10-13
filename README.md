@@ -1,4 +1,4 @@
-# litJL nvim coding envrionment
+# litJL's nvim coding envrionment
 
 This is the coding environment I use for coding anything efficiently.
 
