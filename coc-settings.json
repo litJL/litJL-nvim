@@ -14,11 +14,11 @@
   // explorer
   "explorer.width": 30,
   "explorer.icon.enableNerdfont": true,
-  "explorer.previewAction.onHover": false,
-  "explorer.git.icon.status.mixed": "",
-  "explorer.git.icon.status.added": "",
-  "explorer.git.icon.status.deleted": "",
-  "explorer.git.icon.status.modified": "",
+  "explorer.previewAction.onHover": false, 
+  "explorer.git.icon.status.mixed": "*",
+  "explorer.git.icon.status.added": "+",
+  "explorer.git.icon.status.deleted": "-",
+  "explorer.git.icon.status.modified": "~",
   "explorer.keyMappings.global": {
     "<cr>": ["expandable?", "expand", "open"],
     "v": "open:vsplit"
