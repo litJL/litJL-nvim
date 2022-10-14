@@ -23,6 +23,7 @@ Plug 'https://github.com/tc50cal/vim-terminal'            " Execute terminal com
 Plug 'https://github.com/leafgarland/typescript-vim'      " Typescript support for vim (might be obsolete, don't know tho)
 Plug 'https://github.com/pangloss/vim-javascript'         " Javascript syntax highlighting and indenting (same as above, might be obsolete)
 Plug 'https://github.com/morhetz/gruvbox'                 " Retro Theme
+Plug 'https://github.com/github/copilot.vim'              " Github Copilot
 
 set encoding=UTF-8                                        " Part of making vim-devicons work
 
